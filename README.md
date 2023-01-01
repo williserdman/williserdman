@@ -19,6 +19,6 @@ Things should be organized by language.
   - [Python (and some data science endavors)](https://github.com/williserdman/python_playground)
   - [Work from machine learning course](https://github.com/williserdman/course22-fastai)
   - [Citadel LLC's coding competition](https://github.com/williserdman/c1games_terminal)
-      - [Demo game between my program (blue) and the 2nd place team (red)](https://drive.google.com/file/d/1mfAEPMqUjZz5HGQtZLFHRjkIJa9ekC5o/view?usp=sharing)
+      - [Demo game between my program (blue) and the 2nd place team (red)](https://youtu.be/FUUvTQnPesk)
   - [Some of my most recent work](https://github.com/williserdman/2022_projects)
   - [Many website projects](https://github.com/williserdman/webdevelopment)
