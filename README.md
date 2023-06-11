@@ -22,4 +22,3 @@ Things should be organized by language.
       - [Demo game between my program (blue) and the 2nd place team (red)](https://youtu.be/FUUvTQnPesk)
   - [Some of my most recent work](https://github.com/williserdman/2022_projects)
   - [Many website projects](https://github.com/williserdman/webdevelopment)
-  - [Leetcode Solutions](https://github.com/williserdman/leetcodesolutions)
