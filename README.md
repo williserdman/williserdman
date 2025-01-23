@@ -9,7 +9,7 @@
 
 ### 🏆 **Citadel Coding Competition: AI Strategy Bot**  
 [![Repo](https://img.shields.io/badge/Repo-c1games_terminal-blue)](https://github.com/williserdman/c1games_terminal) | [![Demo Video](https://img.shields.io/badge/Demo-Video-red)](https://youtu.be/FUUvTQnPesk)  
-- **Description**: Built an AI agent for Citadel’s coding competition, defeating 2nd-place team’s bot in a strategic game.  
+- **Description**: Built an AI agent for Citadel’s coding competition, tournament-style 1st place team.  
 - **Tech**: Python, Game Theory, Algorithm Optimization  
 - **Highlight**: Demonstrated real-time decision-making and efficient pathfinding algorithms.
 
