@@ -49,6 +49,6 @@
 
 ## 📫 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2)](https://www.linkedin.com/in/williserdman/)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836)](mailto:willis.erdman@gmail.com)
 
 *“First, solve the problem. Then, write the code.” – John Johnson*
