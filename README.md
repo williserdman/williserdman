@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Willis Erdman 
 
-**Machine Learning Engineer | Competitive Coder | Full-Stack Explorer**  
+**BSE in EE and MS in CS @ Case Western Reserve University**  
 *Building intelligent systems and solving complex problems with code.*  
 
 ---
