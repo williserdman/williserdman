@@ -7,7 +7,6 @@
 
 ## ⚡ GitHub Stats & Activity
 
-![Python](https://img.shields.io/badge/Python-70%25-blue)  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williserdman&layout=compact&theme=radical)  
 
 ---
